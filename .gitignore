@@ -33,5 +33,4 @@ Icon?
 *.swp
 *.swo
 
-Gemfile.lock
 .rspec
